@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
 ">
 
-- 🌱 I’m currently learning **Full Stack Game Development**
+- 🌱 I’m currently working as **Game Developer**
 
 - 👨‍💻 All of my projects are available at [https://sundevnalees.netlify.app/](https://sundevnalees.netlify.app/)
 
-- 💬 Ask me about **Unity,Programming**
+- 💬 Ask me about **Unity,Programming,Unreal Engine**
 
 - 📫 How to reach me **sundevnalees647@gmail.com**
 
